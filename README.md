@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on natural language processing and improving my dsa/competetive programming...
 - 🌱 I’m currently learning any thing related artifical intelligence.
 - 👯 I’m looking to collaborate on DeepLearning and Machine Learning projects.
 
