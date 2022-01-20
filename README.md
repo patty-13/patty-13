@@ -6,8 +6,9 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on natural language processing and improving my dsa/competetive programming...
-- 🌱 I’m currently learning any thing related artifical intelligence.
+- 🌱 I’m cursious kid with passion to explore different domains but got stuck with AI.
 - 👯 I’m looking to collaborate on DeepLearning and Machine Learning projects.
+- CHECK OUT MY DIGITIAL PORTOLIO AT https://patty-13.github.io/
 
 <!-- - 📫 How to reach me: -->
 ![](https://komarev.com/ghpvc/?username=patty-13&color=dc143c&tyle=plastic)
