@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on natural language processing and improving my dsa/competetive programming... happy learning.
+- 🔭 I’m currently working on natural language processing and improving my dsa/competetive programming....
 - 🌱 I’m cursious kid with passion to explore different domains and looking forward to what we can contribute to tech.
 - 👯 I’m looking to collaborate on DeepLearning and Machine Learning projects.
 
